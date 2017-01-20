@@ -1,0 +1,112 @@
+Report created: 
+	3. 3. 2016	3:16:22
+
+Project name: Portfolio and Resume.aep
+
+Source files collected to: 
+	C:\Users\jumbre23\Desktop\Portfolio and Resume folder
+
+Source files collected: All
+
+Collected comps:  
+	Render
+	Pre-comp 1
+	Pre-comp 2
+	Scene_01
+	Scene_02
+	Scene_2_2
+	Scene_03
+	icon_1
+	icon_2
+	icon_3
+	icon_4
+	Icons_rotation
+	Rotate_1
+	Rotate_2
+	Rotate_3
+	Rotate_4
+	Scene_4
+	Photo/Video
+	Photo/Video 2
+	Photo/Video 3
+	Your_presentation 1
+	Your_presentation 2
+	Photo/Video 4
+	Your_presentation 3
+	Your_presentation 4
+	Scene_05
+	Central_circle
+	Bar_01
+	Bar_03
+	Bar_02
+	Bar_04
+	Comp 1
+	central_circle Comp 1
+	Scene_06
+	Box_1
+	Box_2
+	Box_3
+	Box_4
+	Box_5
+	Box_6
+	Box_7
+	Scene_07
+	Languages_1
+	Languages_2
+	Languages_3
+	Languages_4
+	Scene_08
+	Thinks_01
+	Thinks_02
+	Thinks_03
+	Thinks_04
+	Thinks_05
+	Thinks_06
+	Thinks_07
+	Thinks_08
+	Scene_09
+	Scene_10
+	
+Number of collected files:  14
+
+Size of collected files:  9,3 MB
+
+Collected source files: 
+	C:\Users\jumbre23\Desktop\1-512.png
+	C:\Users\jumbre23\Desktop\black-and-white-city-landmark-lights.jpg
+	C:\Users\jumbre23\Desktop\black-and-white-wallpaper-3.jpg
+	C:\Users\jumbre23\Desktop\Black-And-White-Wallpaper-6.jpg
+	C:\Users\jumbre23\Desktop\bw1.jpg
+	C:\Users\jumbre23\Desktop\Pomùcky do AAE\Icons\icons_folder\favorite22.png
+	C:\Users\jumbre23\Desktop\Pomùcky do AAE\Icons\png\add183.png
+	C:\Users\jumbre23\Desktop\Pomùcky do AAE\Icons\png\bag45.png
+	C:\Users\jumbre23\Desktop\Pomùcky do AAE\Icons\png\camera105.png
+	C:\Users\jumbre23\Desktop\Pomùcky do AAE\Icons\png\front15.png
+	C:\Users\jumbre23\Desktop\preview.mp3
+	C:\Users\jumbre23\Desktop\search-256.png
+	C:\Users\jumbre23\Desktop\thin-0864_beer-512.png
+	C:\Users\jumbre23\Desktop\thin-323_phone_telephone_call_wire-512.png
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  6
+
+Effect:  Color Key
+	
+Effect:  Fill
+	
+Effect:  Linear Wipe
+	
+Effect:  Numbers
+	External dependencies:  
+		Font family: ‘GeosansLight’, Font style: ‘Regular’
+Effect:  Radial Wipe
+	
+Effect:  Transform
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “GeosansLight”, Font style: “Regular”
+
